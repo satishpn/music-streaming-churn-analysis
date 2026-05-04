@@ -61,3 +61,13 @@ Churn is primarily driven by **user engagement and content relevance**, rather t
 
 This project demonstrates end-to-end data analysis skills including SQL querying, behavioral segmentation, dashboard creation, and actionable business insights.
 ```
+
+## 📊 Dataset
+
+This project uses a publicly available dataset from Kaggle:
+
+- **Name:** Streaming Subscription Churn Dataset  
+- **Source:** https://www.kaggle.com/datasets/raghunandan9605/streaming-subscription-churn-dataset  
+- **Type:** Synthetic customer behavior dataset  
+
+The dataset simulates user activity on a music streaming platform, including subscription type, engagement metrics, and churn status.
