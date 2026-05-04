@@ -53,7 +53,9 @@ Churn is primarily driven by **user engagement and content relevance**, rather t
 
 ## 📷 Dashboard
 
-(Insert screenshot of Google Sheets dashboard here)
+Below is the interactive dashboard built in Google Sheets:
+
+![Customer Churn Dashboard](dashboard/dashboard.png)
 
 ---
 
