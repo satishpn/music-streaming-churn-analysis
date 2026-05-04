@@ -59,6 +59,13 @@ Below is the interactive dashboard built in Google Sheets:
 
 ---
 
+## 📊 Live Dashboard
+
+View full Google Sheets dashboard here:  
+https://docs.google.com/spreadsheets/d/1OwPixfynLMecO9UkmrWI4bExguYhd3XxMiE72GhZ27g/edit?usp=sharing
+
+---
+
 ## 🚀 Key Takeaway
 
 This project demonstrates end-to-end data analysis skills including SQL querying, behavioral segmentation, dashboard creation, and actionable business insights.
