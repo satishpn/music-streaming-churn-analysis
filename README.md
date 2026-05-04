@@ -60,7 +60,7 @@ Churn is primarily driven by **user engagement and content relevance**, rather t
 ## 🚀 Key Takeaway
 
 This project demonstrates end-to-end data analysis skills including SQL querying, behavioral segmentation, dashboard creation, and actionable business insights.
-```
+
 
 ## 📊 Dataset
 
