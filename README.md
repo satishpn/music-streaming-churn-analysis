@@ -74,7 +74,7 @@ This project demonstrates end-to-end data analysis skills including SQL querying
 
 ## 📄 Case Study
 
-👉 [Download Case Study]case_study/(CUSTOMER_CHURN_ANALYSIS_CASE_STUDY.pdf)
+👉 [Download Case Study](case_study/CUSTOMER_CHURN_ANALYSIS_CASE_STUDY.pdf)
 
 ---
 
