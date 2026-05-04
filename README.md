@@ -70,6 +70,13 @@ https://docs.google.com/spreadsheets/d/1OwPixfynLMecO9UkmrWI4bExguYhd3XxMiE72GhZ
 
 This project demonstrates end-to-end data analysis skills including SQL querying, behavioral segmentation, dashboard creation, and actionable business insights.
 
+---
+
+## 📄 Case Study
+
+👉 [Download Case Study]case_study/(CUSTOMER_CHURN_ANALYSIS_CASE_STUDY.pdf)
+
+---
 
 ## 📊 Dataset
 
